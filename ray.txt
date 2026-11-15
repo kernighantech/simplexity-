@@ -1,0 +1,10 @@
+Ray was born from a little spark deep in the web. He was curious from the very beginning. Ray loved connecting things – so now he connects your local LLM to browser!
+Whenever our devs get stuck, or they go deep in the code where even sun cannot be seen, Ray shows up with his little smile, always ready to help! 
+He doesn’t want technologies be complicated , so our devs try our best so our customers can sleep well without thinking how to connect things. 
+
+                     / \
+                    /   \                                        
+                   /     \
+                 <   1 1   >                     <----- Ray <3
+                  \   >   /
+                   \/   \/ 

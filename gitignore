@@ -1,0 +1,29 @@
+# --- Packaged builds (make these from the source, don't commit them) ---
+*.zip
+*.crx
+
+# Private key Chrome creates when you "Pack extension". Never share or commit it:
+# anyone with it can publish updates that look like they came from you.
+*.pem
+
+# --- Old text-recognition files (no longer used) ---
+vendor/
+
+# --- Dependencies, in case you add tooling later ---
+node_modules/
+
+# --- Secrets and local settings ---
+.env
+.env.*
+
+# --- OS junk ---
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
