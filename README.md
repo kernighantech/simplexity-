@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Simplexity logo" width="96" />
+<img src="https://i.postimg.cc/65Ms56G3/mascot.png" alt="Simplexity logo" width="96" />
 
 # Simplexity
 
@@ -18,11 +18,11 @@ Everything goes to the model running on *your* computer, not to the cloud.
 ---
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Simplexity home screen" width="240" />
+  <img src="https://i.postimg.cc/rw49ZQcT/Screenshot-2026-11-15-014526.png" alt="Simplexity home screen" width="240" />
   &nbsp;
-  <img src="docs/screenshots/chat.png" alt="Asking about a page" width="240" />
+  <img src="https://i.postimg.cc/vDF447KX/Screenshot-2026-11-15-014704.png" alt="Asking about a page" width="240" />
   &nbsp;
-  <img src="docs/screenshots/history.png" alt="Chat history" width="240" />
+  <img src="https://i.postimg.cc/QdBj2KYw/Screenshot-2026-11-15-015039.png" alt="Chat history" width="240" />
 </p>
 
 ## ✨ Features
@@ -65,7 +65,7 @@ Simplexity talks to any server with an **OpenAI-compatible API** (`/v1/models` a
 Running the model on another computer, like a desktop on your home network? Enter its address in Settings, and Chrome will ask you once to allow Simplexity to connect to it.
 
 <p align="center">
-  <img src="docs/screenshots/settings.png" alt="Settings panel" width="240" />
+  <img src="https://i.postimg.cc/x8dwLBwQ/Screenshot-2026-11-15-015134.png" alt="Settings panel" width="240" />
 </p>
 
 ## 🔒 Privacy
@@ -122,7 +122,7 @@ zip -r ../simplexity-chrome-web-store.zip . \
 
 ## ☀️ Meet Ray
 
-<img src="assets/mascot.png" alt="Ray, the Simplexity mascot" width="72" align="left" />
+<img src="https://i.postimg.cc/65Ms56G3/mascot.png" alt="Ray, the Simplexity mascot" width="72" align="left" />
 
 Ray is the little sun who greets you every time you open Simplexity. He was born from a spark deep in the web and loves connecting things, so now he connects your local LLM to your browser. Read his full story in [ray.txt](ray.txt).
 
